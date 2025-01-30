@@ -1,5 +1,3 @@
-# Identifying-Drivers-of-Spotify-Song-Popularity
-
 🎵 Identifying Drivers of Spotify Song Popularity
 
 📌 Project Overview
